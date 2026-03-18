@@ -27,14 +27,16 @@ To strengthen hands-on cybersecurity skills through practical penetration testin
 
 
 
-*Network Diagram. Production server has the IP of 192.168.0.20, Webserver is 10.200.0.12*
-
+*Network diagram of the lab environment used for this project. The production server (192.168.0.20), web server (10.200.0.12), and a Windows 7 host were the primary systems targeted during testing. Other systems shown in the diagram were not utilized.(excluding Firewall)*
 
 
 <img width="1205" height="679" alt="step 1" src="https://github.com/user-attachments/assets/6c547488-53f5-4eb3-87f6-eb489666f48a" />
 
 Started a basic nmap scan of both the production and web servers using their respective IP addresses
+After the scan, numerous open ports were identified, indicating the need for further investigation
+
+
 *Nmap is a network scanning tool used to identify open ports, running services, and hosts across a network, aiding in system enumeration and attack surface discovery.*
 
 
-
+*Every open port is a potential entry point. The more ports exposed, the more opportunities an attacker has to find a weakness.*
