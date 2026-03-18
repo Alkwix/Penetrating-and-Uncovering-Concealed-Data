@@ -6,9 +6,10 @@ To strengthen hands-on cybersecurity skills through practical penetration testin
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
+- Gained hands-on experience with tools such as Metasploit, Nmap, Wireshark, and Kali Linux.
 - Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
+- Leveraged insecure settings and exposed resources to gain unauthorized access.
+- Navigated compromised systems to locate sensitive data and assess impact.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
@@ -18,6 +19,7 @@ To strengthen hands-on cybersecurity skills through practical penetration testin
 - Wireshark – Utilized for capturing and analyzing network traffic to identify potential security issues.
 - Nmap – Performed network scanning and service enumeration to identify open ports and potential attack vectors.
 - Kali Linux – Served as the primary penetration testing environment for executing tools and assessments.
+- John the Ripper - Used for password cracking by performing dictionary and brute-force attacks against hashed credentials. 
 
 ## Steps
 
